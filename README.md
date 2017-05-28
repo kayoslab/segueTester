@@ -6,4 +6,4 @@ Since Segues always feel a little bit *timey-wimey* and *wibbly-wobbly* it occur
 3. View Will Appear
 4. View Did Appear
 
-To determine this I created a quick implementation of an UI-Test. Just for the sake of documentation it's public available here. To spoiler you, the right order is satisfied in 1.000 of 1.000 cases :)
+To determine this I created a quick implementation of an UI-Test. Just for the sake of documentation it's public available here. To spoil you, the right order is satisfied in 1.000 of 1.000 cases :)
